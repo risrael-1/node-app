@@ -10,7 +10,7 @@
 
   <form action="" method="get" class="form-example">
     <div class="form-example">
-      <label for="name">Enter your name: </label>
+      <label for="name">Indiquer votre ville : </label>
       <input type="text" name="nom_ville" id="nom_ville" required>
     </div>
     <div class="form">
