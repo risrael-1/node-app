@@ -14,7 +14,7 @@
       <input type="text" name="nom_ville" id="nom_ville" required>
     </div>
     <div class="form">
-      <input type="submit" value="Subscribe!">
+      <input type="submit" value="ok !">
     </div>
   </form>
   </body>
